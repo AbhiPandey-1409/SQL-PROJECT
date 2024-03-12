@@ -5,6 +5,7 @@ This database consists of six tables based on-
 * Website Activity
 * Products
 * orders and refunds
+
 Being an analyst in the company its my responsibility to fetch an analyse data from one or multiple table
 of this Database
 The data retrieved and analysed are based on-
