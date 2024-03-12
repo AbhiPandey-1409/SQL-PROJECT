@@ -7,11 +7,12 @@ This database consists of six tables based on-
 * orders and refunds
 
 Being an analyst in the company its my responsibility to fetch an analyse data from one or multiple table
-of this Database
+of this Database.
+
 The data retrieved and analysed are based on-
 * Traffic source analysis
 * Webiste performance analysis
 * Channel portfolio analysis
-* Business patern and seasonality analysis
+* Business pattern and seasonality analysis
 * Product Analysis  
 * User Analysis
